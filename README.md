@@ -1,17 +1,21 @@
 
 
 
-
 # Markdown Editor ![Logo](./public/Logo.ico)
 
-**Markdown** : Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
+**What is Markdown?**  
+> Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
 
-**Markdown Editor** : is a simple minor project developed using React.
+**Markdown Editor**  
+>It is a simple minor project developed using React.
 When we open the project, we can see the editing page on the browser where we can type markdown commands on one side of the page and see the results on the other side.
----
+
 ### Features 
 ---
  There are two divisions of the editor page. The user can type any word on the left side of the editor page and we can see the changes automatically on the right side.
+ 
+ <img width="958" alt="image" src="https://user-images.githubusercontent.com/89348093/166461364-4ccae61a-551a-4318-b981-af3d1a62a34f.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
