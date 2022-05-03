@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Markdown-Editor/static/css/main.cee651a6.css",
+    "main.js": "/Markdown-Editor/static/js/main.b5a8b353.js",
+    "index.html": "/Markdown-Editor/index.html",
+    "main.cee651a6.css.map": "/Markdown-Editor/static/css/main.cee651a6.css.map",
+    "main.b5a8b353.js.map": "/Markdown-Editor/static/js/main.b5a8b353.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cee651a6.css",
+    "static/js/main.b5a8b353.js"
+  ]
+}
