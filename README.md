@@ -1,7 +1,10 @@
 
-
-
 # Markdown Editor ![Logo](./public/Logo.ico)
+
+![languages](https://img.shields.io/github/languages/count/Pritam0077/Markdown-Editor?color=yellow)
+![TopLanguage](https://img.shields.io/github/languages/top/Pritam0077/Markdown-Editor?color=red)
+![reposize](https://img.shields.io/github/repo-size/Pritam0077/Markdown-Editor?color=success)
+![watchers](https://img.shields.io/github/watchers/Pritam0077/Markdown-Editor?style=social)
 
 **What is Markdown?**  
 > Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
@@ -10,11 +13,38 @@
 >It is a simple minor project developed using React.
 When we open the project, we can see the editing page on the browser where we can type markdown commands on one side of the page and see the results on the other side.
 
-### Features 
----
- There are two divisions of the editor page. The user can type any word on the left side of the editor page and we can see the changes automatically on the right side.
+## Features 
+
+* LivePreview - Make changes, See changes
+  - Instantly see what your Markdown documents look like in HTML as you create them.
+* GitHub Flavored Markdown 
  
  <img width="958" alt="image" src="https://user-images.githubusercontent.com/89348093/166461364-4ccae61a-551a-4318-b981-af3d1a62a34f.png">
+
+## How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/Pritam0077/Markdown-Editor
+
+# Go into the repository
+$ cd Markdown-Editor
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm start
+```
+
+## Credits
+
+This software uses the following open source packages:
+- [Node.js](https://nodejs.org/)
+- [React-Markdown](https://github.com/remarkjs/react-markdown)
+- [React-icons](https://github.com/react-icons/react-icons)
 
 # Getting Started with Create React App
 
