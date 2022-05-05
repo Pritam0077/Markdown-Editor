@@ -5,6 +5,7 @@
 ![TopLanguage](https://img.shields.io/github/languages/top/Pritam0077/Markdown-Editor?color=red)
 ![reposize](https://img.shields.io/github/repo-size/Pritam0077/Markdown-Editor?color=success)
 ![watchers](https://img.shields.io/github/watchers/Pritam0077/Markdown-Editor?style=social)
+![License](https://img.shields.io/github/license/Pritam0077/Markdown-Editor)
 ![visitor badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=Pritam0077.Markdown-Editor)
 
 **What is Markdown?**  
