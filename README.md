@@ -5,6 +5,7 @@
 ![TopLanguage](https://img.shields.io/github/languages/top/Pritam0077/Markdown-Editor?color=red)
 ![reposize](https://img.shields.io/github/repo-size/Pritam0077/Markdown-Editor?color=success)
 ![watchers](https://img.shields.io/github/watchers/Pritam0077/Markdown-Editor?style=social)
+![visitor badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=Pritam0077.Markdown-Editor)
 
 **What is Markdown?**  
 > Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
@@ -19,7 +20,9 @@ When we open the project, we can see the editing page on the browser where we ca
   - Instantly see what your Markdown documents look like in HTML as you create them.
 * GitHub Flavored Markdown 
  
- <img width="958" alt="image" src="https://user-images.githubusercontent.com/89348093/166461364-4ccae61a-551a-4318-b981-af3d1a62a34f.png">
+<!--  <img width="958" alt="image" src="https://user-images.githubusercontent.com/89348093/166461364-4ccae61a-551a-4318-b981-af3d1a62a34f.png"> -->
+
+![Untitled design](https://user-images.githubusercontent.com/89348093/166949025-623f5df3-7da5-4416-878f-50a187a60454.gif)
 
 ## How To Use
 
