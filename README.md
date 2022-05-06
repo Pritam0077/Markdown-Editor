@@ -1,5 +1,7 @@
 
 # Markdown Editor ![Logo](./public/Logo.ico)
+ 
+<h4>Website: https://pritam0077.github.io/Markdown-Editor/ </h4> 
 
 ![languages](https://img.shields.io/github/languages/count/Pritam0077/Markdown-Editor?color=yellow)
 ![TopLanguage](https://img.shields.io/github/languages/top/Pritam0077/Markdown-Editor?color=red)
@@ -8,19 +10,26 @@
 ![License](https://img.shields.io/github/license/Pritam0077/Markdown-Editor)
 ![visitor badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=Pritam0077.Markdown-Editor)
 
-**What is Markdown?**  
-> Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
+**What is Markdown?** 🤔🤔
+> Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid HTML (or XHTML)
 
-**Markdown Editor**  
+**Markdown-Editor** 😁
 >It is a simple minor project developed using React.
-When we open the project, we can see the editing page on the browser where we can type markdown commands on one side of the page and see the results on the other side.
+When we open the website, we can see the editing page on the left side of the browser where we can type markdown commands on one side of the page and see the results on the other side.
 
 ## Features 
 
 * LivePreview - Make changes, See changes
   - Instantly see what your Markdown documents look like in HTML as you create them.
-* GitHub Flavored Markdown 
- 
+  - This Feature helps us to directly see the rendered file as we type the commands in the editor 
+* Easy UI
+
+### Tech-Stack used 
+
+![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=#61DBFB)
+![BOOTSTRAP](https://img.shields.io/badge/bootstrap-CF9FFF?style=for-the-badge&logo=bootstrap&logoColor=white)
 <!--  <img width="958" alt="image" src="https://user-images.githubusercontent.com/89348093/166461364-4ccae61a-551a-4318-b981-af3d1a62a34f.png"> -->
 
 ![Untitled design](https://user-images.githubusercontent.com/89348093/166949025-623f5df3-7da5-4416-878f-50a187a60454.gif)
@@ -46,9 +55,10 @@ $ npm start
 ## Credits
 
 This software uses the following open source packages:
-- [Node.js](https://nodejs.org/)
-- [React-Markdown](https://github.com/remarkjs/react-markdown)
-- [React-icons](https://github.com/react-icons/react-icons)
+* [Node.js](https://nodejs.org/)
+* [React-Markdown](https://github.com/remarkjs/react-markdown)
+ > React component to render markdown.
+* [React-icons](https://github.com/react-icons/react-icons)
 
 # Getting Started with Create React App
 
