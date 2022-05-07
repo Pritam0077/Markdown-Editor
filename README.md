@@ -54,7 +54,7 @@ $ npm start
 
 ## Credits
 
-This software uses the following open source packages:
+This project uses the following open source packages:
 * [Node.js](https://nodejs.org/)
 * [React-Markdown](https://github.com/remarkjs/react-markdown)
  > React component to render markdown.
